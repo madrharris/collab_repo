@@ -7,5 +7,6 @@ README documentation {:
 
 added cat pic pls love 
 
-
 i cause problems on purpose
+DOG pics only!!!!!!!!!!
+
