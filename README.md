@@ -1,13 +1,12 @@
 <<<<<<< HEAD
 Yeehaw brother !! 
 =======
-README documentation {:
->>>>>>> a40025a6b28a319e301528465a098a706765509c
-
+README documentation
 
 added cat pic pls love 
 
-i cause problems on purpose
+bruh moment
 
 DOG pics only!!!!!!!!!!
 
+i cause problems on purpose
