@@ -1,5 +1,7 @@
 Yeehaw brother !! 
 <<<<<<< HEAD
+
+BRUH
 =======
 <<<<<<< HEAD
 README documentation {: hmmmmmm sus
