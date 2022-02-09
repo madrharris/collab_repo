@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 Yeehaw brother !! 
 =======
+<<<<<<< HEAD
+README documentation {: hmmmmmm sus
+
 README documentation
 
 added cat pic pls love 
