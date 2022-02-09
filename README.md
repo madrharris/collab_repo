@@ -1,7 +1,5 @@
 Yeehaw brother !! 
 <<<<<<< HEAD
-
-BRUH
 =======
 <<<<<<< HEAD
 README documentation {: hmmmmmm sus
@@ -19,3 +17,5 @@ DOG pics only!!!!!!!!!!
 i cause problems on purpose
 
 i don't want peace. i want problems! always
+
+let me in let me IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIINNNNN
